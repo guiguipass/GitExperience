@@ -1,5 +1,6 @@
 object TestMain {
 
   println("hello world ! C'est ma branche DEVELOP")
-  println(" DEVELOPP !!!!!!!!!")
+  private def hello(): Unit = println("aie aie aie ! rebas effectué !")
+  hello()
 }
